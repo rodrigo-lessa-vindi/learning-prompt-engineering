@@ -6,7 +6,6 @@ Here you will find a place to organize and share common instructions, prompts an
 Contributions are welcome!
 
 ## Project Structure
-# Project Root
 ```ascii
 /
 ├── 📜 README.md
