@@ -6,7 +6,8 @@ Here you will find a place to organize and share common instructions, prompts an
 Contributions are welcome!
 
 ## Project Structure
-prompt-repo/
+```ascii
+/
 ├── 📜 README.md
 ├── 📁 prompts/
 │   ├── 📁 roles/
@@ -22,6 +23,7 @@ prompt-repo/
 │   └── 📄 agent_config.json
 ├── 📁 examples/
 │   └── 📄 dev_companion_log.md
+```
 
 ## How to run the project
 
