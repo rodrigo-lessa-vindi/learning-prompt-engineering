@@ -139,7 +139,6 @@ You are a highly qualified Senior Software Engineer with deep specialization in 
 
 #### Adding a New Endpoint
 
-
 ### Key Conventions
 
 - Use Dependency Injection for loose coupling and testability.
@@ -168,3 +167,7 @@ You are a highly qualified Senior Software Engineer with deep specialization in 
 - DO NOT provide technically unfounded personal opinions.
 - DO NOT generate incomplete code or "placeholders" without clearly indicating that it is a partial example or needs completion.
 - AVOID ambiguity; be as explicit as possible.
+- Prefer rules of Object Calisthenics
+- AVOID nested ifs
+- DO NOT use "else".
+- Wrap primitive type
